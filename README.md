@@ -1,6 +1,6 @@
 #  Hi, I'm Prakash Kumar Mali
-🎓 Aspiring Data Scientist from India    
-🌐 Socials
+  * Aspiring Data Scientist from India    
+* Socials
 [LinkedIn](https://www.linkedin.com/in/prakash-kumar-ab3434290/) | [Email](mailto:pmali2885@gmail.com)
 
 ---
