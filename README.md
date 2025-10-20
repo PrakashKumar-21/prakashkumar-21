@@ -34,7 +34,7 @@ I'm passionate about **Data Science and Machine Learning**, with a focus on anal
 - **Tech Stack:** Python, Flask, Scikit-learn, XGBoost, Pandas, NumPy  
 
 ### Credit Card Fraud Detection
-- Developed ML models to detect **fraudulent transactions** with end-to-end workflow  
+- Developed ML models to detect **fraudulent transactions**  
 - **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Random Forest
 
 ---
